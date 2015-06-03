@@ -1,0 +1,9 @@
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\LibraryTest\LibraryTest\bin\Debug\LibraryTest.XML
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\LibraryTest\LibraryTest\bin\Debug\LibraryTest.dll
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\LibraryTest\LibraryTest\bin\Debug\LibraryTest.pdb
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\LibraryTest\LibraryTest\bin\Debug\FSharp.Core.dll
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\LibraryTest\LibraryTest\bin\Debug\FSharp.Core.xml
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\LibraryTest\LibraryTest\obj\Debug\LibraryTest.dll
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\LibraryTest\LibraryTest\obj\Debug\LibraryTest.pdb
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\Assets\Frameworks\LibraryTest.dll
+C:\Users\Imortal\Documents\Projects\UnityWithFSharpTest\Assets\Frameworks\LibraryTest.pdb
